@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Efficient Submap-based Autonomous MAV Exploration using Visual-Inertial SLAM Configurable for LiDARs or Depth Cameras**|Sotiris Papatheodorou et.al.|[2409.16972](http://arxiv.org/abs/2409.16972)|null|
+|**2024-09-25**|**Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM**|Phu Pham et.al.|[2409.16944](http://arxiv.org/abs/2409.16944)|null|
+|**2024-09-25**|**Inline Photometrically Calibrated Hybrid Visual SLAM**|Nicolas Abboud et.al.|[2409.16810](http://arxiv.org/abs/2409.16810)|null|
+|**2024-09-25**|**Topological SLAM in colonoscopies leveraging deep features and topological priors**|Javier Morlana et.al.|[2409.16806](http://arxiv.org/abs/2409.16806)|null|
+|**2024-09-25**|**Robo-Platform: A Robotic System for Recording Sensors and Controlling Robots**|Masoud Dayani Najafabadi et.al.|[2409.16595](http://arxiv.org/abs/2409.16595)|null|
+|**2024-09-25**|**Task-driven SLAM Benchmarking**|Yanwei Du et.al.|[2409.16573](http://arxiv.org/abs/2409.16573)|null|
+|**2024-09-24**|**SoMaSLAM: 2D Graph SLAM for Sparse Range Sensing with Soft Manhattan World Constraints**|Jeahn Han et.al.|[2409.15736](http://arxiv.org/abs/2409.15736)|null|
+|**2024-09-23**|**Spectral Graph Theoretic Methods for Enhancing Network Robustness in Robot Localization**|Neelkamal Somisetty et.al.|[2409.15506](http://arxiv.org/abs/2409.15506)|null|
+|**2024-09-22**|**SPAQ-DL-SLAM: Towards Optimizing Deep Learning-based SLAM for Resource-Constrained Embedded Platforms**|Niraj Pudasaini et.al.|[2409.14515](http://arxiv.org/abs/2409.14515)|null|
+|**2024-09-21**|**Point Cloud Structural Similarity-based Underwater Sonar Loop Detection**|Donghwi Jung et.al.|[2409.14020](http://arxiv.org/abs/2409.14020)|null|
 |**2024-09-18**|**Bundle Adjustment in the Eager Mode**|Zitong Zhan et.al.|[2409.12190](http://arxiv.org/abs/2409.12190)|null|
 |**2024-09-23**|**Uncertainty-Aware Visual-Inertial SLAM with Volumetric Occupancy Mapping**|Jaehyung Jung et.al.|[2409.12051](http://arxiv.org/abs/2409.12051)|null|
 |**2024-09-18**|**Metric-Semantic Factor Graph Generation based on Graph Neural Networks**|Jose Andres Millan-Romera et.al.|[2409.11972](http://arxiv.org/abs/2409.11972)|null|
@@ -628,6 +638,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**How to Connect Speech Foundation Models and Large Language Models? What Matters and What Does Not**|Francesco Verdini et.al.|[2409.17044](http://arxiv.org/abs/2409.17044)|null|
+|**2024-09-24**|**Frequency-based View Selection in Gaussian Splatting Reconstruction**|Monica M. Q. Li et.al.|[2409.16470](http://arxiv.org/abs/2409.16470)|null|
+|**2024-09-24**|**Initialization of Monocular Visual Navigation for Autonomous Agents Using Modified Structure from Small Motion**|Juan-Diego Florez et.al.|[2409.16465](http://arxiv.org/abs/2409.16465)|null|
+|**2024-09-24**|**Exploring the potential of collaborative UAV 3D mapping in Kenyan savanna for wildlife research**|Vandita Shukla et.al.|[2409.15914](http://arxiv.org/abs/2409.15914)|null|
+|**2024-09-23**|**Assessment of Submillimeter Precision via Structure from Motion Technique in Close-Range Capture Environments**|Francisco Roza de Moraes et.al.|[2409.15602](http://arxiv.org/abs/2409.15602)|null|
+|**2024-09-23**|**Evaluating Robot Influence on Pedestrian Behavior Models for Crowd Simulation and Benchmarking**|Subham Agrawal et.al.|[2409.14844](http://arxiv.org/abs/2409.14844)|null|
+|**2024-09-21**|**Are Music Foundation Models Better at Singing Voice Deepfake Detection? Far-Better Fuse them with Speech Foundation Models**|Orchid Chetia Phukan et.al.|[2409.14131](http://arxiv.org/abs/2409.14131)|null|
 |**2024-09-17**|**GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module**|Yichen Zhang et.al.|[2409.11307](http://arxiv.org/abs/2409.11307)|null|
 |**2024-09-13**|**Dense Point Clouds Matter: Dust-GS for Scene Reconstruction from Sparse Viewpoints**|Shan Chen et.al.|[2409.08613](http://arxiv.org/abs/2409.08613)|null|
 |**2024-09-09**|**KRONC: Keypoint-based Robust Camera Optimization for 3D Car Reconstruction**|Davide Di Nucci et.al.|[2409.05407](http://arxiv.org/abs/2409.05407)|null|
@@ -883,6 +900,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|null|
+|**2024-09-23**|**CamLoPA: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis**|Xiang Zhang et.al.|[2409.15169](http://arxiv.org/abs/2409.15169)|null|
+|**2024-09-21**|**Combining Absolute and Semi-Generalized Relative Poses for Visual Localization**|Vojtech Panek et.al.|[2409.14269](http://arxiv.org/abs/2409.14269)|null|
+|**2024-09-21**|**SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality**|Hongjia Zhai et.al.|[2409.14067](http://arxiv.org/abs/2409.14067)|null|
+|**2024-09-20**|**Efficient and Discriminative Image Feature Extraction for Universal Image Retrieval**|Morris Florek et.al.|[2409.13513](http://arxiv.org/abs/2409.13513)|**[link](https://github.com/morrisfl/unifex)**|
 |**2024-09-18**|**Towards Global Localization using Multi-Modal Object-Instance Re-Identification**|Aneesh Chavan et.al.|[2409.12002](http://arxiv.org/abs/2409.12002)|null|
 |**2024-09-17**|**Open-Set Semantic Uncertainty Aware Metric-Semantic Graph Matching**|Kurran Singh et.al.|[2409.11555](http://arxiv.org/abs/2409.11555)|null|
 |**2024-09-17**|**Obfuscation Based Privacy Preserving Representations are Recoverable Using Neighborhood Information**|Kunal Chelani et.al.|[2409.11536](http://arxiv.org/abs/2409.11536)|null|
@@ -1787,7 +1809,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-23**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
+|**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|null|
+|**2024-09-20**|**Keypoint Detection Technique for Image-Based Visual Servoing of Manipulators**|Niloufar Amiri et.al.|[2409.13668](http://arxiv.org/abs/2409.13668)|null|
+|**2024-09-25**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
@@ -2029,6 +2053,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji et.al.|[2409.16925](http://arxiv.org/abs/2409.16925)|null|
+|**2024-09-24**|**Automatic Registration of SHG and H&E Images with Feature-based Initial Alignment and Intensity-based Instance Optimization: Contribution to the COMULIS Challenge**|Marek Wodzinski et.al.|[2409.15931](http://arxiv.org/abs/2409.15931)|null|
 |**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-09-05**|**Enabling Practical and Privacy-Preserving Image Processing**|Chao Wang et.al.|[2409.03568](http://arxiv.org/abs/2409.03568)|null|
 |**2024-09-20**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song et.al.|[2409.03032](http://arxiv.org/abs/2409.03032)|**[link](https://github.com/gdaosu/albedo_aerial_photogrammetry)**|
@@ -2292,6 +2318,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**TalkinNeRF: Animatable Neural Fields for Full-Body Talking Humans**|Aggelina Chatziagapi et.al.|[2409.16666](http://arxiv.org/abs/2409.16666)|null|
+|**2024-09-23**|**Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities**|Peizhi Yan et.al.|[2409.16147](http://arxiv.org/abs/2409.16147)|null|
+|**2024-09-24**|**Disentangled Generation and Aggregation for Robust Radiance Fields**|Shihe Shen et.al.|[2409.15715](http://arxiv.org/abs/2409.15715)|null|
+|**2024-09-24**|**Plenoptic PNG: Real-Time Neural Radiance Fields in 150 KB**|Jae Yong Lee et.al.|[2409.15689](http://arxiv.org/abs/2409.15689)|null|
+|**2024-09-23**|**AgriNeRF: Neural Radiance Fields for Agriculture in Challenging Lighting Conditions**|Samarth Chopra et.al.|[2409.15487](http://arxiv.org/abs/2409.15487)|null|
+|**2024-09-22**|**MVPGS: Excavating Multi-view Priors for Gaussian Splatting from Sparse Input Views**|Wangze Xu et.al.|[2409.14316](http://arxiv.org/abs/2409.14316)|null|
+|**2024-09-21**|**MOSE: Monocular Semantic Reconstruction Using NeRF-Lifted Noisy Priors**|Zhenhua Du et.al.|[2409.14019](http://arxiv.org/abs/2409.14019)|null|
+|**2024-09-19**|**CrossRT: A cross platform programming technology for hardware-accelerated ray tracing in CG and CV applications**|Vladimir Frolov et.al.|[2409.12617](http://arxiv.org/abs/2409.12617)|null|
 |**2024-09-18**|**JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation**|Sai Tanmay Reddy Chakkera et.al.|[2409.12156](http://arxiv.org/abs/2409.12156)|null|
 |**2024-09-22**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014](http://arxiv.org/abs/2409.12014)|**[link](https://github.com/lulinzhang/brdf-nerf)**|
 |**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356](http://arxiv.org/abs/2409.11356)|null|
@@ -3560,6 +3594,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM**|Phu Pham et.al.|[2409.16944](http://arxiv.org/abs/2409.16944)|null|
+|**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|null|
+|**2024-09-24**|**Frequency-based View Selection in Gaussian Splatting Reconstruction**|Monica M. Q. Li et.al.|[2409.16470](http://arxiv.org/abs/2409.16470)|null|
+|**2024-09-23**|**Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities**|Peizhi Yan et.al.|[2409.16147](http://arxiv.org/abs/2409.16147)|null|
+|**2024-09-23**|**Human Hair Reconstruction with Strand-Aligned 3D Gaussians**|Egor Zakharov et.al.|[2409.14778](http://arxiv.org/abs/2409.14778)|null|
+|**2024-09-22**|**MVPGS: Excavating Multi-view Priors for Gaussian Splatting from Sparse Input Views**|Wangze Xu et.al.|[2409.14316](http://arxiv.org/abs/2409.14316)|null|
+|**2024-09-21**|**SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality**|Hongjia Zhai et.al.|[2409.14067](http://arxiv.org/abs/2409.14067)|null|
+|**2024-09-20**|**Elite-EvGS: Learning Event-based 3D Gaussian Splatting by Distilling Event-to-Video Priors**|Zixin Zhang et.al.|[2409.13392](http://arxiv.org/abs/2409.13392)|null|
+|**2024-09-20**|**3D-GSW: 3D Gaussian Splatting Watermark for Protecting Copyrights in Radiance Fields**|Youngdong Jang et.al.|[2409.13222](http://arxiv.org/abs/2409.13222)|null|
+|**2024-09-19**|**MGSO: Monocular Real-time Photometric SLAM with Efficient 3D Gaussian Splatting**|Yan Song Hu et.al.|[2409.13055](http://arxiv.org/abs/2409.13055)|null|
 |**2024-09-18**|**SRIF: Semantic Shape Registration Empowered by Diffusion-based Image Morphing and Flow Estimation**|Mingze Sun et.al.|[2409.11682](http://arxiv.org/abs/2409.11682)|null|
 |**2024-09-18**|**Gradient-Driven 3D Segmentation and Affordance Transfer in Gaussian Splatting Using 2D Masks**|Joji Joseph et.al.|[2409.11681](http://arxiv.org/abs/2409.11681)|**[link](https://github.com/JojiJoseph/3dgs-gradient-segmentation)**|
 |**2024-09-17**|**GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module**|Yichen Zhang et.al.|[2409.11307](http://arxiv.org/abs/2409.11307)|null|
