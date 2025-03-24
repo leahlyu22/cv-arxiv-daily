@@ -38,7 +38,7 @@
 |**2025-03-15**|**DynaGSLAM: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes**|Runfa Blark Li et.al.|[2503.11979](http://arxiv.org/abs/2503.11979)|null|
 |**2025-03-14**|**AQUA-SLAM: Tightly-Coupled Underwater Acoustic-Visual-Inertial SLAM with Sensor Calibration**|Shida Xu et.al.|[2503.11420](http://arxiv.org/abs/2503.11420)|null|
 |**2025-03-14**|**NF-SLAM: Effective, Normalizing Flow-supported Neural Field representations for object-level visual SLAM in automotive applications**|Li Cui et.al.|[2503.11199](http://arxiv.org/abs/2503.11199)|null|
-|**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145](http://arxiv.org/abs/2503.11145)|null|
+|**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145](http://arxiv.org/abs/2503.11145)|**[link](https://github.com/nubot-nudt/sg-slam)**|
 |**2025-03-13**|**Rapidly Converging Time-Discounted Ergodicity on Graphs for Active Inspection of Confined Spaces**|Benjamin Wong et.al.|[2503.10853](http://arxiv.org/abs/2503.10853)|null|
 |**2025-03-13**|**OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions**|Maxim Popov et.al.|[2503.10331](http://arxiv.org/abs/2503.10331)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
@@ -3371,7 +3371,7 @@
 |**2024-06-19**|**Freq-Mip-AA : Frequency Mip Representation for Anti-Aliasing Neural Radiance Fields**|Youngin Park et.al.|[2406.13251](http://arxiv.org/abs/2406.13251)|**[link](https://github.com/yi0109/freqmipaa)**|
 |**2024-06-18**|**Sampling 3D Gaussian Scenes in Seconds with Latent Diffusion Models**|Paul Henderson et.al.|[2406.13099](http://arxiv.org/abs/2406.13099)|null|
 |**2024-06-18**|**Head Pose Estimation and 3D Neural Surface Reconstruction via Monocular Camera in situ for Navigation and Safe Insertion into Natural Openings**|Ruijie Tang et.al.|[2406.13048](http://arxiv.org/abs/2406.13048)|null|
-|**2024-06-18**|**Fast Global Localization on Neural Radiance Field**|Mangyu Kong et.al.|[2406.12202](http://arxiv.org/abs/2406.12202)|null|
+|**2024-06-18**|**Fast Global Localization on Neural Radiance Field**|Mangyu Kong et.al.|[2406.12202](http://arxiv.org/abs/2406.12202)|**[link](https://github.com/kmk97/fast-loc-nerf)**|
 |**2024-06-20**|**TutteNet: Injective 3D Deformations by Composition of 2D Mesh Deformations**|Bo Sun et.al.|[2406.12121](http://arxiv.org/abs/2406.12121)|null|
 |**2024-06-17**|**DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features**|Letian Wang et.al.|[2406.12095](http://arxiv.org/abs/2406.12095)|null|
 |**2024-06-17**|**Uncertainty modeling for fine-tuned implicit functions**|Anna Susmelj et.al.|[2406.12082](http://arxiv.org/abs/2406.12082)|null|
@@ -3758,7 +3758,7 @@
 |**2023-12-23**|**INFAMOUS-NeRF: ImproviNg FAce MOdeling Using Semantically-Aligned Hypernetworks with Neural Radiance Fields**|Andrew Hou et.al.|[2312.16197](http://arxiv.org/abs/2312.16197)|null|
 |**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084](http://arxiv.org/abs/2312.16084)|**[link](https://github.com/minghanqin/LangSplat)**|
 |**2023-12-26**|**2D-Guided 3D Gaussian Segmentation**|Kun Lan et.al.|[2312.16047](http://arxiv.org/abs/2312.16047)|null|
-|**2023-12-26**|**Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images**|Zhan Lu et.al.|[2312.15942](http://arxiv.org/abs/2312.15942)|null|
+|**2023-12-26**|**Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images**|Zhan Lu et.al.|[2312.15942](http://arxiv.org/abs/2312.15942)|**[link](https://github.com/lu-zhan/pano-nerf)**|
 |**2023-12-23**|**Human101: Training 100+FPS Human Gaussians in 100s from 1 View**|Mingwei Li et.al.|[2312.15258](http://arxiv.org/abs/2312.15258)|**[link](https://github.com/longxiang-ai/human101)**|
 |**2023-12-23**|**Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane**|Chen Yang et.al.|[2312.15253](http://arxiv.org/abs/2312.15253)|**[link](https://github.com/loping151/forplane)**|
 |**2023-12-23**|**CaLDiff: Camera Localization in NeRF via Pose Diffusion**|Rashik Shrestha et.al.|[2312.15242](http://arxiv.org/abs/2312.15242)|null|
@@ -4507,14 +4507,14 @@
 |**2025-03-17**|**AV-Surf: Surface-Enhanced Geometry-Aware Novel-View Acoustic Synthesis**|Hadam Baek et.al.|[2503.12806](http://arxiv.org/abs/2503.12806)|null|
 |**2025-03-16**|**SPC-GS: Gaussian Splatting with Semantic-Prompt Consistency for Indoor Open-World Free-view Synthesis from Sparse Inputs**|Guibiao Liao et.al.|[2503.12535](http://arxiv.org/abs/2503.12535)|null|
 |**2025-03-16**|**VRsketch2Gaussian: 3D VR Sketch Guided 3D Object Generation with Gaussian Splatting**|Songen Gu et.al.|[2503.12383](http://arxiv.org/abs/2503.12383)|null|
-|**2025-03-16**|**GS-3I: Gaussian Splatting for Surface Reconstruction from Illumination-Inconsistent Images**|Tengfei Wang et.al.|[2503.12335](http://arxiv.org/abs/2503.12335)|null|
+|**2025-03-16**|**GS-3I: Gaussian Splatting for Surface Reconstruction from Illumination-Inconsistent Images**|Tengfei Wang et.al.|[2503.12335](http://arxiv.org/abs/2503.12335)|**[link](https://github.com/tfwang-9527/gs-3i)**|
 |**2025-03-16**|**Swift4D:Adaptive divide-and-conquer Gaussian Splatting for compact and efficient reconstruction of dynamic scene**|Jiahao Wu et.al.|[2503.12307](http://arxiv.org/abs/2503.12307)|null|
-|**2025-03-15**|**3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction**|Peizhen Zheng et.al.|[2503.12001](http://arxiv.org/abs/2503.12001)|null|
+|**2025-03-15**|**3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction**|Peizhen Zheng et.al.|[2503.12001](http://arxiv.org/abs/2503.12001)|**[link](https://github.com/thinkxca/3dgs)**|
 |**2025-03-15**|**DynaGSLAM: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes**|Runfa Blark Li et.al.|[2503.11979](http://arxiv.org/abs/2503.11979)|null|
 |**2025-03-14**|**Advancing 3D Gaussian Splatting Editing with Complementary and Consensus Information**|Xuanqi Zhang et.al.|[2503.11601](http://arxiv.org/abs/2503.11601)|null|
 |**2025-03-14**|**EgoSplat: Open-Vocabulary Egocentric Scene Understanding with Language Embedded 3D Gaussian Splatting**|Di Li et.al.|[2503.11345](http://arxiv.org/abs/2503.11345)|null|
 |**2025-03-14**|**Uncertainty-Aware Normal-Guided Gaussian Splatting for Surface Reconstruction from Sparse Image Sequences**|Zhen Tan et.al.|[2503.11172](http://arxiv.org/abs/2503.11172)|null|
-|**2025-03-13**|**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**|Lingteng Qiu et.al.|[2503.10625](http://arxiv.org/abs/2503.10625)|null|
+|**2025-03-13**|**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**|Lingteng Qiu et.al.|[2503.10625](http://arxiv.org/abs/2503.10625)|**[link](https://github.com/aigc3d/LHM)**|
 |**2025-03-13**|**VicaSplat: A Single Run is All You Need for 3D Gaussian Splatting and Camera Estimation from Unposed Video Frames**|Zhiqi Li et.al.|[2503.10286](http://arxiv.org/abs/2503.10286)|null|
 |**2025-03-13**|**ROODI: Reconstructing Occluded Objects with Denoising Inpainters**|Yeonjin Chang et.al.|[2503.10256](http://arxiv.org/abs/2503.10256)|null|
 |**2025-03-13**|**3D Student Splatting and Scooping**|Jialin Zhu et.al.|[2503.10148](http://arxiv.org/abs/2503.10148)|**[link](https://github.com/realcrane/student-splating-scooping)**|
