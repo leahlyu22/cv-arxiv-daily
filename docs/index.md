@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Slanted light-sheet array microscopy for large volume imaging at rates exceeding 100 Hz**|Kai Long et.al.|[2506.13664](http://arxiv.org/abs/2506.13664)|null|
+|**2025-06-16**|**Cognitive Synergy Architecture: SEGO for Human-Centric Collaborative Robots**|Jaehong Oh et.al.|[2506.13149](http://arxiv.org/abs/2506.13149)|null|
+|**2025-06-16**|**A Novel ViDAR Device With Visual Inertial Encoder Odometry and Reinforcement Learning-Based Active SLAM Method**|Zhanhua Xin et.al.|[2506.13100](http://arxiv.org/abs/2506.13100)|null|
+|**2025-06-16**|**SuperPoint-SLAM3: Augmenting ORB-SLAM3 with Deep Features, Adaptive NMS, and Learning-Based Loop Closure**|Shahram Najam Syed et.al.|[2506.13089](http://arxiv.org/abs/2506.13089)|null|
 |**2025-06-12**|**LRSLAM: Low-rank Representation of Signed Distance Fields in Dense Visual SLAM System**|Hongbeen Park et.al.|[2506.10567](http://arxiv.org/abs/2506.10567)|null|
 |**2025-06-11**|**VAULT: A Mobile Mapping System for ROS 2-based Autonomous Robots**|Miguel Á. González-Santamarta et.al.|[2506.09583](http://arxiv.org/abs/2506.09583)|null|
 |**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang et.al.|[2506.09278](http://arxiv.org/abs/2506.09278)|null|
@@ -1429,6 +1433,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**A Semantically-Aware Relevance Measure for Content-Based Medical Image Retrieval Evaluation**|Xiaoyang Wei et.al.|[2506.13509](http://arxiv.org/abs/2506.13509)|null|
+|**2025-06-16**|**Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval**|Kshitij Kavimandan et.al.|[2506.13496](http://arxiv.org/abs/2506.13496)|null|
+|**2025-06-16**|**EmbodiedPlace: Learning Mixture-of-Features with Embodied Constraints for Visual Place Recognition**|Bingxi Liu et.al.|[2506.13133](http://arxiv.org/abs/2506.13133)|null|
+|**2025-06-16**|**SuperPlace: The Renaissance of Classical Feature Aggregation for Visual Place Recognition in the Era of Foundation Models**|Bingxi Liu et.al.|[2506.13073](http://arxiv.org/abs/2506.13073)|null|
+|**2025-06-14**|**Feature Complementation Architecture for Visual Place Recognition**|Weiwei Wang et.al.|[2506.12401](http://arxiv.org/abs/2506.12401)|null|
 |**2025-06-11**|**Towards a general-purpose foundation model for fMRI analysis**|Cheng Wang et.al.|[2506.11167](http://arxiv.org/abs/2506.11167)|null|
 |**2025-06-11**|**Improving Personalized Search with Regularized Low-Rank Parameter Updates**|Fiona Ryan et.al.|[2506.10182](http://arxiv.org/abs/2506.10182)|**[link](https://github.com/adobe-research/polar-vl)**|
 |**2025-06-10**|**Safeguarding Multimodal Knowledge Copyright in the RAG-as-a-Service Environment**|Tianyu Chen et.al.|[2506.10030](http://arxiv.org/abs/2506.10030)|null|
@@ -2928,6 +2937,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**EmbodiedPlace: Learning Mixture-of-Features with Embodied Constraints for Visual Place Recognition**|Bingxi Liu et.al.|[2506.13133](http://arxiv.org/abs/2506.13133)|null|
 |**2025-06-12**|**RealKeyMorph: Keypoints in Real-world Coordinates for Resolution-agnostic Image Registration**|Mina C. Moghadam et.al.|[2506.10344](http://arxiv.org/abs/2506.10344)|null|
 |**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748](http://arxiv.org/abs/2506.09748)|null|
 |**2025-06-11**|**ScaleLSD: Scalable Deep Line Segment Detection Streamlined**|Zeran Ke et.al.|[2506.09369](http://arxiv.org/abs/2506.09369)|**[link](https://github.com/ant-research/scalelsd)**|
@@ -3266,11 +3276,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-15**|**Rasterizing Wireless Radiance Field via Deformable 2D Gaussian Splatting**|Mufan Liu et.al.|[2506.12787](http://arxiv.org/abs/2506.12787)|null|
+|**2025-06-15**|**Efficient multi-view training for 3D Gaussian Splatting**|Minhyuk Choi et.al.|[2506.12727](http://arxiv.org/abs/2506.12727)|null|
 |**2025-06-12**|**PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting**|Lintao Xiang et.al.|[2506.10335](http://arxiv.org/abs/2506.10335)|null|
 |**2025-06-11**|**The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge**|Haoru Wang et.al.|[2506.09885](http://arxiv.org/abs/2506.09885)|null|
 |**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais et.al.|[2506.08619](http://arxiv.org/abs/2506.08619)|null|
 |**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|**[link](https://github.com/tuallen/speede3dgs)**|
-|**2025-06-11**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
+|**2025-06-16**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
 |**2025-06-07**|**SPC to 3D: Novel View Synthesis from Binary SPC via I2I translation**|Sumit Sharma et.al.|[2506.06890](http://arxiv.org/abs/2506.06890)|null|
 |**2025-06-06**|**Splat and Replace: 3D Reconstruction with Repetitive Elements**|Nicolás Violante et.al.|[2506.06462](http://arxiv.org/abs/2506.06462)|null|
 |**2025-06-06**|**NeurNCD: Novel Class Discovery via Implicit Neural Representation**|Junming Wang et.al.|[2506.06412](http://arxiv.org/abs/2506.06412)|null|
@@ -4908,6 +4920,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766](http://arxiv.org/abs/2506.13766)|null|
+|**2025-06-16**|**Multiview Geometric Regularization of Gaussian Splatting for Accurate Radiance Fields**|Jungeon Kim et.al.|[2506.13508](http://arxiv.org/abs/2506.13508)|null|
+|**2025-06-16**|**GS-2DGS: Geometrically Supervised 2DGS for Reflective Object Reconstruction**|Jinguang Tong et.al.|[2506.13110](http://arxiv.org/abs/2506.13110)|null|
+|**2025-06-15**|**Metropolis-Hastings Sampling for 3D Gaussian Reconstruction**|Hyunjin Kim et.al.|[2506.12945](http://arxiv.org/abs/2506.12945)|null|
+|**2025-06-15**|**Efficient multi-view training for 3D Gaussian Splatting**|Minhyuk Choi et.al.|[2506.12727](http://arxiv.org/abs/2506.12727)|null|
+|**2025-06-14**|**Perceptual-GS: Scene-adaptive Perceptual Densification for Gaussian Splatting**|Hongbi Zhou et.al.|[2506.12400](http://arxiv.org/abs/2506.12400)|null|
 |**2025-06-12**|**PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting**|Lintao Xiang et.al.|[2506.10335](http://arxiv.org/abs/2506.10335)|null|
 |**2025-06-11**|**DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos**|Chieh Hubert Lin et.al.|[2506.09997](http://arxiv.org/abs/2506.09997)|null|
 |**2025-06-11**|**Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS**|Tao Wang et.al.|[2506.09534](http://arxiv.org/abs/2506.09534)|null|
