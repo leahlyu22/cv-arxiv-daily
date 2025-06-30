@@ -46,7 +46,7 @@ layout: default
 |**2025-06-06**|**Analysis of points outcome in ATP Grand Slam Tennis using big data and machine learning**|Martin Illum et.al.|[2506.05866](http://arxiv.org/abs/2506.05866)|null|
 |**2025-06-05**|**On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images**|Andreas Meuleman et.al.|[2506.05558](http://arxiv.org/abs/2506.05558)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
-|**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|null|
+|**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|**[link](https://github.com/nvlabs/pycuvslam)**|
 |**2025-06-04**|**Seeing in the Dark: Benchmarking Egocentric 3D Vision with the Oxford Day-and-Night Dataset**|Zirui Wang et.al.|[2506.04224](http://arxiv.org/abs/2506.04224)|null|
 |**2025-06-03**|**LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM**|Roman Titkov et.al.|[2506.03073](http://arxiv.org/abs/2506.03073)|null|
 |**2025-06-03**|**Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic**|Stefan Orf et.al.|[2506.02932](http://arxiv.org/abs/2506.02932)|null|
@@ -1575,7 +1575,7 @@ layout: default
 |**2025-03-10**|**Improving Visual Place Recognition with Sequence-Matching Receptiveness Prediction**|Somayeh Hussaini et.al.|[2503.06840](http://arxiv.org/abs/2503.06840)|null|
 |**2025-03-09**|**RoboDesign1M: A Large-scale Dataset for Robot Design Understanding**|Tri Le et.al.|[2503.06796](http://arxiv.org/abs/2503.06796)|null|
 |**2025-03-09**|**StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition**|Yanqing Shen et.al.|[2503.06601](http://arxiv.org/abs/2503.06601)|**[link](https://github.com/syqlyx/StructVPR)**|
-|**2025-03-09**|**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**|Huaqi Tao et.al.|[2503.06501](http://arxiv.org/abs/2503.06501)|null|
+|**2025-03-09**|**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**|Huaqi Tao et.al.|[2503.06501](http://arxiv.org/abs/2503.06501)|**[link](https://github.com/hqitao/textinplace)**|
 |**2025-03-08**|**NeuraLoc: Visual Localization in Neural Implicit Map with Dual Complementary Features**|Hongjia Zhai et.al.|[2503.06117](http://arxiv.org/abs/2503.06117)|null|
 |**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204](http://arxiv.org/abs/2503.05204)|null|
 |**2025-03-06**|**RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining**|Tengfei Zhang et.al.|[2503.04653](http://arxiv.org/abs/2503.04653)|null|
@@ -4987,7 +4987,7 @@ layout: default
 |**2025-06-16**|**GS-2DGS: Geometrically Supervised 2DGS for Reflective Object Reconstruction**|Jinguang Tong et.al.|[2506.13110](http://arxiv.org/abs/2506.13110)|null|
 |**2025-06-15**|**Metropolis-Hastings Sampling for 3D Gaussian Reconstruction**|Hyunjin Kim et.al.|[2506.12945](http://arxiv.org/abs/2506.12945)|null|
 |**2025-06-17**|**Efficient multi-view training for 3D Gaussian Splatting**|Minhyuk Choi et.al.|[2506.12727](http://arxiv.org/abs/2506.12727)|null|
-|**2025-06-14**|**Perceptual-GS: Scene-adaptive Perceptual Densification for Gaussian Splatting**|Hongbi Zhou et.al.|[2506.12400](http://arxiv.org/abs/2506.12400)|null|
+|**2025-06-14**|**Perceptual-GS: Scene-adaptive Perceptual Densification for Gaussian Splatting**|Hongbi Zhou et.al.|[2506.12400](http://arxiv.org/abs/2506.12400)|**[link](https://github.com/eezkni/perceptual-gs)**|
 |**2025-06-12**|**PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting**|Lintao Xiang et.al.|[2506.10335](http://arxiv.org/abs/2506.10335)|null|
 |**2025-06-11**|**DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos**|Chieh Hubert Lin et.al.|[2506.09997](http://arxiv.org/abs/2506.09997)|null|
 |**2025-06-11**|**Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS**|Tao Wang et.al.|[2506.09534](http://arxiv.org/abs/2506.09534)|null|
@@ -5068,7 +5068,7 @@ layout: default
 |**2025-05-24**|**Efficient Differentiable Hardware Rasterization for 3D Gaussian Splatting**|Yitian Yuan et.al.|[2505.18764](http://arxiv.org/abs/2505.18764)|null|
 |**2025-05-24**|**SuperGS: Consistent and Detailed 3D Super-Resolution Scene Reconstruction via Gaussian Splatting**|Shiyun Xie et.al.|[2505.18649](http://arxiv.org/abs/2505.18649)|null|
 |**2025-05-23**|**Pose Splatter: A 3D Gaussian Splatting Model for Quantifying Animal Pose and Appearance**|Jack Goffinet et.al.|[2505.18342](http://arxiv.org/abs/2505.18342)|null|
-|**2025-05-23**|**CGS-GAN: 3D Consistent Gaussian Splatting GANs for High Resolution Human Head Synthesis**|Florian Barthel et.al.|[2505.17590](http://arxiv.org/abs/2505.17590)|null|
+|**2025-05-23**|**CGS-GAN: 3D Consistent Gaussian Splatting GANs for High Resolution Human Head Synthesis**|Florian Barthel et.al.|[2505.17590](http://arxiv.org/abs/2505.17590)|**[link](https://github.com/fraunhoferhhi/cgs-gan)**|
 |**2025-05-23**|**From Flight to Insight: Semantic 3D Reconstruction for Aerial Inspection via Gaussian Splatting and Language-Guided Segmentation**|Mahmoud Chick Zaouali et.al.|[2505.17402](http://arxiv.org/abs/2505.17402)|null|
 |**2025-05-22**|**Motion Matters: Compact Gaussian Streaming for Free-Viewpoint Video Reconstruction**|Jiacong Chen et.al.|[2505.16533](http://arxiv.org/abs/2505.16533)|null|
 |**2025-05-21**|**RUSplatting: Robust 3D Gaussian Splatting for Sparse-View Underwater Scene Reconstruction**|Zhuodong Jiang et.al.|[2505.15737](http://arxiv.org/abs/2505.15737)|null|
